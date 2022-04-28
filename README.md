@@ -7,7 +7,7 @@
 #Built With
 
     Major languages : HTML&CSS, linter
-    Frameworks
+    Frameworks : none
     Technologies used : Git, Github
 
 #Requirements
